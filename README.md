@@ -291,3 +291,7 @@ Para más información, consultar:
 - ✅ Ejemplos funcionales
 - ✅ Arquitectura escalable
 - ✅ Siguiendo mejores prácticas
+
+
+VIDEO EXPLICATIVO SOBRE LAS FUNCIONES 
+https://drive.google.com/file/d/1akp0QzRuktI_4TR6j1VTXJZouMROQEAm/view?usp=drivesdk
