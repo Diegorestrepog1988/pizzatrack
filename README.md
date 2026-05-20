@@ -266,7 +266,8 @@ Este proyecto es de educación y demostración.
 
 ## 👨‍💼 Autor
 
-**Revisión Ingenieril**: Ingeniero en Sistemas  
+**Diego Alexis Restrepo
+++ 
 **Fecha**: 17 de Mayo de 2026  
 **Versión**: 1.0 ✅ (Código Limpio Certificado)
 
